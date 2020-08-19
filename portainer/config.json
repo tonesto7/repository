@@ -35,5 +35,5 @@
     "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
     "agent_secret": "str?"
   },
-  "image": "hassioaddons/portainer-{arch}"
+  "image": "hassioaddons/portainer-{arch}:1.2.0"
 }
